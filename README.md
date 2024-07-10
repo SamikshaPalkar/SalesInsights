@@ -1,5 +1,6 @@
 Power Bi project about Sales Insights, here the ATLIQ hardware company which shares computer hardware and peripherals to many clients and facing issue about traking the sales in the dynamically growing market and many more.
 This is the guided project from codebasis. 
+
 **Data Analysis Using SQL**
 1.Show all customer records
 SELECT * FROM customers;
